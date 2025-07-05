@@ -1,7 +1,3 @@
-#Fawry E-Commerce System
-##How to Run
-1.Run the file: Main.java 
-
 INPUT 
 ![image](https://github.com/user-attachments/assets/acdc355e-780f-46cf-adab-962f70b04a17)
 OUTPUT
