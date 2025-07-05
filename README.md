@@ -1,5 +1,5 @@
-##Fawry E-Commerce System
-How to Run
+#Fawry E-Commerce System
+##How to Run
 1.Run the file: Main.java 
 
 INPUT 
